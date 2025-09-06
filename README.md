@@ -1,11 +1,11 @@
 # 💫 Hello, I'm Mohamed Aziz!
 
-🌍 Based in Tunisia | Passionate about coding and AI  
+🌍 Based in Tunisia | Full-Stack Developer & Software Engineer | AI Enthusiast  
 
-🔭 Currently working on innovative web projects  
-🌱 Learning cutting-edge AI and DevOps techniques  
-💬 Ask me about JavaScript frameworks, Laravel, and cloud deployments  
-⚡ Fun fact: I love turning complex problems into simple code  
+🔭 Working on web and backend development projects  
+🌱 Continuously learning AI, cloud technologies, and DevOps  
+💬 Ask me about JavaScript frameworks, PHP, C#, Python and cloud deployments  
+⚡ Fun fact: I enjoy turning complex problems into simple
 
 
 ## 🌐 Socials:
