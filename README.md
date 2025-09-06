@@ -3,7 +3,7 @@
 🌍 Based in Tunisia | Full-Stack Developer & Software Engineer | AI Enthusiast  
 
 🔭 Working on web and backend development projects  
-🌱 Continuously learning AI, cloud technologies, and DevOps  
+🌱 Continuously learning AI, cloud technologies and DevOps  
 💬 Ask me about JavaScript frameworks, PHP, C#, Python and cloud deployments  
 ⚡ Fun fact: I enjoy turning complex problems into simple
 
